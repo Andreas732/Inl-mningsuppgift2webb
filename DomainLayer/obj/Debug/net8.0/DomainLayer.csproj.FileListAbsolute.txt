@@ -1,0 +1,11 @@
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+C:\Users\villi\Desktop\Inlämningsuppgift 2 webb\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
